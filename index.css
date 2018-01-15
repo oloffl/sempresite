@@ -4,3 +4,10 @@
 body {
  font-size: 1rem;
 }
+
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
