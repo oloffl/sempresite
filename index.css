@@ -1,6 +1,8 @@
 @charset "utf-8";
-/* CSS Document */
 
-body {
- font-size: 1rem;
+.brand-text {
+	font-size: 2.0rem;
+	font-weight: 300;
+	font-family: 'Oxygen', sans-serif;
+	color: #000000;
 }
