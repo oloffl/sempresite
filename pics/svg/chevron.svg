@@ -1,0 +1,14 @@
+<svg width="1792" height="1792" xmlns="http://www.w3.org/2000/svg">
+ <metadata id="metadata3035">image/svg+xml</metadata>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="g3027" transform="rotate(89.46920776367188 871.3287353515625,1054.50830078125) matrix(0.027386216842075546,0,0,-0.026124601932376906,914.2651305860637,1150.9325551181896) ">
+   <path fill="#b54c5d" id="path3029" d="m-1076.810471,3690.934757q0,-52 -37,-91l-652,-651q-37,-37 -90,-37q-53,0 -90,37l-76,75q-37,39 -37,91q0,53 37,90l486,486l-486,485q-37,39 -37,91q0,53 37,90l76,75q36,38 90,38q54,0 90,-38l652,-651q37,-37 37,-90z"/>
+  </g>
+ </g>
+</svg>
