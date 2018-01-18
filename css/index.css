@@ -37,6 +37,12 @@ html, body {
     border-bottom: solid 1px #E9EAEC;
 }
 
-.brand-text:hover {
-
+/* Centered text */
+.bottom-center {
+    position: absolute;
+    bottom: 8px;
+    left: 50%;
+    /*left: 50%;*/
+    transform: translate(-50%, -50%);
 }
+>>>>>>> d4ecce535649f5eae79dac81841ff442619d652c
