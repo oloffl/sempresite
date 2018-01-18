@@ -29,12 +29,26 @@ body, html {
 	font-size: 2.0rem;
 	font-weight: 300;
 	font-family: 'Oxygen', sans-serif;
-	color: #000000;
+	color: #7f7f7f;
 	text-decoration: none;
+	padding: 8px 8px 8px;
+	transition: color 1s;
 }
 
+.brand-text:hover {
+	color: #000000;
+}
 
+.navbar {
+	padding-top: 20px;
+	padding-right: 0px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
 
+.navbar {
+    border-bottom: solid 1px #E9EAEC;
+}
 
 /* Centered text */
 .bottom-center {
